@@ -1,0 +1,45 @@
+[
+  {
+    "viewport": "desktop",
+    "width": 1440,
+    "overflow": false,
+    "javascriptErrors": [],
+    "externalRequests": [],
+    "interactions": "passed",
+    "featuredProducts": 5,
+    "catalogProducts": 9,
+    "faqDisclosures": 4
+  },
+  {
+    "viewport": "mobile",
+    "width": 390,
+    "overflow": false,
+    "javascriptErrors": [],
+    "externalRequests": [],
+    "interactions": "passed",
+    "featuredProducts": 5,
+    "catalogProducts": 9,
+    "faqDisclosures": 4
+  },
+  {
+    "viewport": "small-mobile",
+    "width": 320,
+    "overflow": false,
+    "javascriptErrors": [],
+    "externalRequests": [],
+    "interactions": "passed",
+    "featuredProducts": 5,
+    "catalogProducts": 9,
+    "faqDisclosures": 4
+  },
+  {
+    "reducedMotion": "passed"
+  },
+  {
+    "catalogRailAdvance": "passed"
+  },
+  {
+    "selfContainedBundle": "passed over HTTP",
+    "directFileOpening": "blocked by managed browser policy; unverified"
+  }
+]
